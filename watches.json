@@ -1,11 +1,30 @@
+
 [
   {
-    "url": "https://www.zara.com/tr/tr/kapusonlu-kontrast-sisme-mont-p08073235.html?v1=600239264&v2=2417772",
+    "url": "https://www.zara.com/tr/tr/kare-yaka-strec-body-p05039373.html?v1=576232334&v2=2571291",
+    "size": "L",
+    "color": "Black",
+    "in_stock": false,
+    "availability": "out_of_stock",
+    "last_checked": null,
+    "product_name": "KARE YAKA STREÇ BODY"
+  },
+  {
+    "url": "https://www.zara.com/tr/tr/halter-yaka-balenli-body-p05039819.html?v1=554762984&v2=2571291",
+    "size": "S",
+    "color": "Black",
+    "in_stock": false,
+    "availability": "out_of_stock",
+    "last_checked": null,
+    "product_name": "HALTER YAKA BALENLİ BODY"
+  },
+  {
+    "url": "https://www.zara.com/tr/tr/halter-yaka-balenli-body-p05039819.html?v1=554762984&v2=2571291",
     "size": "M",
     "color": "Black",
-    "in_stock": true,
-    "availability": "low_on_stock",
-    "last_checked": "2026-10-10T14:33:11+00:00",
-    "product_name": "HOODED CONTRAST PUFFER JACKET"
+    "in_stock": false,
+    "availability": "out_of_stock",
+    "last_checked": null,
+    "product_name": "HALTER YAKA BALENLİ BODY"
   }
 ]
