@@ -1,10 +1,16 @@
+
 import asyncio
 import json
 import os
+import sys
 from pathlib import Path
 
 import httpx
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 import main
+
 
 WATCHES_PATH = Path("watches.json")
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
