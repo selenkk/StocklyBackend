@@ -3,9 +3,9 @@
     "url": "https://www.zara.com/tr/tr/kare-yaka-strec-body-p05039373.html?v1=576232334&v2=2571291",
     "size": "L",
     "color": "Black",
-    "in_stock": false,
-    "availability": "out_of_stock",
-    "last_checked": "2026-10-20T19:22:05+00:00",
+    "in_stock": true,
+    "availability": "in_stock",
+    "last_checked": "2026-10-20T22:31:45+00:00",
     "product_name": "STRETCH BODYSUIT WITH SQUARE NECKLINE"
   },
   {
@@ -14,16 +14,16 @@
     "color": "Black",
     "in_stock": false,
     "availability": "coming_soon",
-    "last_checked": "2026-10-20T19:22:07+00:00",
+    "last_checked": "2026-10-20T22:31:47+00:00",
     "product_name": "UNDERWIRED HALTER BODYSUIT"
   },
   {
     "url": "https://www.zara.com/tr/tr/halter-yaka-balenli-body-p05039819.html?v1=554762984&v2=2571291",
     "size": "M",
     "color": "Black",
-    "in_stock": true,
-    "availability": "low_on_stock",
-    "last_checked": "2026-10-20T19:22:08+00:00",
+    "in_stock": false,
+    "availability": "out_of_stock",
+    "last_checked": "2026-10-20T22:31:47+00:00",
     "product_name": "UNDERWIRED HALTER BODYSUIT"
   }
 ]
