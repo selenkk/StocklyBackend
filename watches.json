@@ -5,7 +5,7 @@
     "color": "Black",
     "in_stock": false,
     "availability": "out_of_stock",
-    "last_checked": "2026-10-25T21:06:28+00:00",
+    "last_checked": "2026-10-25T23:13:55+00:00",
     "product_name": "STRETCH BODYSUIT WITH SQUARE NECKLINE"
   },
   {
@@ -14,16 +14,16 @@
     "color": "Black",
     "in_stock": false,
     "availability": "coming_soon",
-    "last_checked": "2026-10-25T21:06:30+00:00",
+    "last_checked": "2026-10-25T23:13:59+00:00",
     "product_name": "UNDERWIRED HALTER BODYSUIT"
   },
   {
     "url": "https://www.zara.com/tr/tr/halter-yaka-balenli-body-p05039819.html?v1=554762984&v2=2571291",
     "size": "M",
     "color": "Black",
-    "in_stock": false,
-    "availability": "out_of_stock",
-    "last_checked": "2026-10-25T21:06:30+00:00",
+    "in_stock": true,
+    "availability": "low_on_stock",
+    "last_checked": "2026-10-25T23:13:59+00:00",
     "product_name": "UNDERWIRED HALTER BODYSUIT"
   }
 ]
